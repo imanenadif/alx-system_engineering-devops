@@ -1,0 +1,1 @@
+Scripting shell and permissions
